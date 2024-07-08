@@ -1,0 +1,7 @@
+Browser    Chrome
+
+Url        https://innoproduction.in/meda/uat/office/dgm/
+
+username   dgmnashik@mahaurja.com
+
+password   Meda@123

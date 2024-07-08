@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="POM_Base_Meda.DGM_Base">
+        <methods>
+          <include name="verifyBasicInformationAfterClickonEyeorViewbtn"/>
+          <include name="CheckFullScreenbtnofDashboard"/>
+          <include name="ACconfig"/>
+          <include name="VerifyAfterClickonPieChartToggleMenu"/>
+          <include name="VerifyStateCentralBeneficiaryFunctionality"/>
+          <include name="VerifyCentralScheme_ofDashboardFunctionality"/>
+          <include name="ValidateImageofsolarpumpofDashboard"/>
+          <include name="VerifyBeneficiaryReportValueswithColoumnName"/>
+          <include name="VerifyLocationDetails"/>
+          <include name="ASconfig"/>
+          <include name="VerifyMahakrushiDropdownofDashboard"/>
+          <include name="VerifyToggleMenuOfBeneficiaryReport"/>
+          <include name="VerifyBeneficiaryReportofDashboard"/>
+          <include name="AMconfig"/>
+          <include name="Test_CastWiseProfile_PieChatOfDashboard"/>
+          <include name="ValidateSchemeDocumnets"/>
+          <include name="BSconfig"/>
+          <include name="BMconfig"/>
+          <include name="TestCastwiseValueWithCasteName"/>
+          <include name="CheckNotificationbtnOfDashboard"/>
+          <include name="VerifyToggleMenuBarOf_PieChart"/>
+          <include name="verifyFinancialDetails"/>
+          <include name="ValidateMedaLogoOfDashboard"/>
+          <include name="VerifyStateSchemeSubmoduleOfDashboard"/>
+        </methods>
+      </class> <!-- POM_Base_Meda.DGM_Base -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

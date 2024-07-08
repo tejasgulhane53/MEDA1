@@ -1,0 +1,7 @@
+Browser          Chrome
+
+url_Vendor       https://innoproduction.in/meda/meda_vendor/
+
+user_name        arpit.srivastava@tatapowersolar.com
+
+pass_word        Meda@123

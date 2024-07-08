@@ -1,0 +1,2 @@
+Browser     Chrome
+Url         https://innoproduction.in/meda/uat/solar/beneficiary/register/Kusum-Yojana-Component-B
